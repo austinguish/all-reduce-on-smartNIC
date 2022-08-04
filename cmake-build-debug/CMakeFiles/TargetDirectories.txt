@@ -1,0 +1,3 @@
+/Users/austinguish/Downloads/allreduce/cmake-build-debug/CMakeFiles/allreduce.dir
+/Users/austinguish/Downloads/allreduce/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/austinguish/Downloads/allreduce/cmake-build-debug/CMakeFiles/rebuild_cache.dir
